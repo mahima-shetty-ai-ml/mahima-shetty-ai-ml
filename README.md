@@ -10,3 +10,4 @@
 - 📫 How to reach me: msshetty237@gmail.com  https://www.linkedin.com/in/mahima-shetty-ai-ml/
 
 
+![Mahima's github stats](https://github-readme-stats.vercel.app/api?username=mahima-shetty-ai-ml&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahima-shetty-ai-ml&show_icons=true&theme=radical)](https://github.com/mahima-shetty-ai-ml/github-readme-stats)
